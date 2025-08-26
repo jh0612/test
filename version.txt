@@ -1,0 +1,19 @@
+C:\Users\70998115>node -v
+v20.19.4
+
+C:\Users\70998115>npm -v
+10.8.2
+
+C:\Users\70998115>vue --version
+2.9.6
+
+https://axios-miniprogram.com/basics/request
+https://element.eleme.cn/#/zh-CN/component/input
+https://blog.csdn.net/m0_61309742/article/details/136714390
+https://blog.csdn.net/dream_summer/article/details/108867317#:~:text=%E6%9C%AC%E6%96%87%E8%AF%A6%E7%BB%86%E4%BB%8B%E7%BB%8D%E4%BA%86Vue%E7%9A%84%E5%AE%89%E8%A3%85%E8%BF%87%E7%A8%8B%EF%BC%8C%E5%8C%85%E6%8B%ACnode.js%E7%9A%84%E9%85%8D%E7%BD%AE%E3%80%81npm%E9%95%9C%E5%83%8F%E6%BA%90%E7%9A%84%E8%AE%BE%E7%BD%AE%EF%BC%8C%E4%BB%A5%E5%8F%8Avue-cli2.x%E5%92%8C3.x%E7%9A%84%E5%AE%89%E8%A3%85%E4%B8%8E%E9%A1%B9%E7%9B%AE%E5%88%9B%E5%BB%BA%E3%80%82%20%E8%BF%98%E6%B6%B5%E7%9B%96%E4%BA%86vue%E9%A1%B9%E7%9B%AE%E7%9A%84%E5%9F%BA%E6%9C%AC%E7%BB%93%E6%9E%84%E5%92%8C%E5%B8%B8%E7%94%A8%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7%E7%9A%84%E4%BD%BF%E7%94%A8%EF%BC%8C%E5%A6%82VSCode%E5%92%8CHbuilderX%E3%80%82%20%E6%AD%A4%E5%A4%96%EF%BC%8C%E6%8F%90%E4%BE%9B%E4%BA%86Vue%E7%9A%84%E5%9F%BA%E7%A1%80%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90%E9%93%BE%E6%8E%A5%E3%80%82%20%E6%91%98%E8%A6%81%E7%94%9F%E6%88%90%E4%BA%8E%20C%E7%9F%A5%E9%81%93,%EF%BC%8C%E7%94%B1%20DeepSeek-R1%20%E6%BB%A1%E8%A1%80%E7%89%88%E6%94%AF%E6%8C%81%EF%BC%8C%20%E5%89%8D%E5%BE%80%E4%BD%93%E9%AA%8C%20%3E
+https://www.cnblogs.com/flydean/p/java-stream-collection.html#collectorstolist
+https://www.cnblogs.com/Linzj5950/p/15817176.html
+https://zhuanlan.zhihu.com/p/626962131
+https://juejin.cn/post/7501989765085691916
+https://blog.csdn.net/u010246789/article/details/51313066
+https://blog.csdn.net/nxg0916/article/details/139212669
